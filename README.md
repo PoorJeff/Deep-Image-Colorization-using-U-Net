@@ -11,7 +11,7 @@ Automatic image colorization using a lightweight U-Net architecture in CIELAB sp
 - Visualize grayscale vs reconstructed color image
 
 **Key Results**
-- Data pipeline verified: ✔ `L shape [1,128,128]`, `ab shape [2,128,128]`
+- Data pipeline verified:  `L shape [1,128,128]`, `ab shape [2,128,128]`
 - Visualization example saved at  
   `experiments/exp1_unet_l1_ssim/samples/vis_sample.png`
 
